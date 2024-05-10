@@ -23,6 +23,13 @@ To perform a similar analisis follow these simple steps:
 3.  Run various codes to explore and analyze the data
 4.  Come up with a conclusion with your findings
 
+## Dependencies
+You will need to import the following:
+1. Pandas --> import pandas as pd
+2. Numpy --> import numpy as np
+4. Regex --> import re
+5. Seaborn --> import seaborn as sns
+
 ## Presentation URL
 Click the link below for a simple presentation regarding our data findings:
 https://docs.google.com/presentation/d/1SF5qa-4_7m0_acO5jmxaXOaPayokIlvpFpywSHyJlGM/edit?usp=sharing
