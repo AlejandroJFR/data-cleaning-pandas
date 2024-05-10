@@ -30,6 +30,7 @@ You will need to import the following:
 4. Regex --> import re
 5. Seaborn --> import seaborn as sns
 
-## Presentation URL
+## Presentation
 Click the link below for a simple presentation regarding our data findings:
 https://docs.google.com/presentation/d/1SF5qa-4_7m0_acO5jmxaXOaPayokIlvpFpywSHyJlGM/edit?usp=sharing
+You may also clone this repo onto your local machine and open the powerpoint file in Hypothesis & Presentation folder
