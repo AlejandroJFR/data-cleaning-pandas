@@ -1,0 +1,10 @@
+Notes
+### for the module file:
+1. format columns so no lead/trail spaces + lowercase
+2. drop all rows except species, injury, activity, & type
+3. applymap('filter trail/lead spaces + lowercase) on dataframe
+4. cleaning out type with replacements
+  - optional: clean out activities if we have time
+
+5. implement alex's clean and filter shark regex function
+6. implement alejandro/daniela filtering shark/ injury code as a function
